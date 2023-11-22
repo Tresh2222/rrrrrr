@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text for main branch
+=======
+text for side branch
+>>>>>>> origin/side
